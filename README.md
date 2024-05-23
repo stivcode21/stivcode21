@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hello! soy <a href="https://github.com/stivcode21">StivCode21</a>👋</h1>
+  <h1>¡Hello! am <a href="https://github.com/stivcode21">StivCode21</a>👋</h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBpajhkdHNhcTRwNDhoanUzY2NxbzVsMDBzYzc4bmJwc2p1NTUzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="600" height="300">
   <p>🔧From mechanic to developer!🔧 Passionate about solution problems. developer junior and <strong>Future Full Stack Developer.</strong> I don't stop learning, every day I work to achieve my goals.
 📌Don't give up and persevere is my motto. One day this idea was born and today I am carrying it out. I hope you like a little of what I share and what I can contribute.</p>
