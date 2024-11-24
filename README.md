@@ -1,48 +1,50 @@
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48e&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6812EA&height=120&section=header"/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stivcode21!+🪄;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stivcode!+🪄;&color=6812EA;" />
+ <img src="https://i.ibb.co/BBVmsjM/Logo-Para-Empresa-Profesional-Circular-Negro-y-Beis.png" alt="Profile Image" width="130" height="130" />
 </h1>
 
-<h3 align="center">📌A passionate software developer from Colombia!</h3>
-
-<br/>
+<h2 align="center">📌A passionate software developer from Colombia!</h2>
 
 <div align="center">
- 
- ✅ I am currently **available on the market**
- 
- 🌱 I’m currently learning **Angular, React,  Node.js**
+  <p>
+    <em>¡turn ideas into extraordinary results!.</em> I'am committed to my professional development and enjoy collaborating with passionate people to create something memorable. Are you ready to build something unique together?
+  </p>
 
-💬 Ask me about **Javascript, Css, Tailwind... or anything [here](https://github.com/stivcode21)**
+  <h2>🚀 What I'm working on:</h2>
+  <div style="list-style: none; padding: 0;">
+    ✅ <strong>Available for new projects and collaborations</strong><br/>
+    🌱 Learning: <strong>Angular, c#, and Node.js</strong><br/>
+    💬 Ask me about: <strong>JavaScript, React, Tailwind</strong> or <a href="https://www.stivcode.com/">anything here</a><br/>
+  </div>
 
-⚡ Curious fact **It is an essential requirement that astronomers know how to program**
-
- </div>
+  <h2>🌌 A curious fact:</h2>
+  <p><em>Astronomers need to know programming to explore the universe. Programming connects everything! 🚀</em></p>
+  
+  <h3>✨ Let’s create something amazing together! ✨</h3>
+</div>
  
 <div align="center"> 
-  <a href="mailto:estiven.tapasco13@gmail.com">
+  <a href="mailto:contacto@stivcode.com">
     <img src="https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/stivcode21/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.stivcode.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
  <br/>
 
  <hr/>
- <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vite,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,tailwind,discord,react" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,vite,next,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,firebase,unity,cs,notion,figma,discord,vscode" />
 </div>
-
-<br/><br/>
+<br/>
 <hr/>
-
 <div align="center">
   <h2>⬇️ My Contributions ⬇️</h2>
   <br/>
@@ -64,4 +66,4 @@
   
 </div> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48e&height=120&section=footer"/>    
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6812EA&height=120&section=footer"/>    
