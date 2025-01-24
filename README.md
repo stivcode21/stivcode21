@@ -25,7 +25,7 @@
   <h3>✨ Let’s create something amazing together! ✨</h3>
 </div>
  
-<div align="center"> 
+<div  align="center"> 
   <a href="mailto:contacto@stivcode.com">
     <img src="https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
