@@ -29,7 +29,7 @@
   <a href="mailto:contacto@stivcode.com">
     <img src="https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/stivcode21/" target="_blank">
+  <a href="https://www.linkedin.com/in/stivcode21/" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.stivcode.com/" target="_blank">
