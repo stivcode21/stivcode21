@@ -9,7 +9,7 @@
 <div align="center">
   
   <p>
-    <em> ¡turn ideas into extraordinary results!.</em> I'am committed to my professional development and enjoy collaborating with passionate people to create something memorable. Are you ready to build something unique together?
+    <em>¡turn ideas into extraordinary results!.</em> I'am committed to my professional development and enjoy collaborating with passionate people to create something memorable. Are you ready to build something unique together?
   </p>
 
   <h2>🚀 What I'm working on:</h2>
