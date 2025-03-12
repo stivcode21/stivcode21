@@ -4,7 +4,7 @@
 <!--  <img src="https://i.ibb.co/ryr27r0/Avatar-Foto-de-Perfil-Hombre-Tatuajes-Dibujo-Corporativo-Empresa-Ilustrado-Moderno-Azul.png" alt="Profile Image" width="130" height="130" /> -->
 </h1>
 
-<h2 align="center">📌A passionate software developer from Colombia!</h2>
+<h2 align="center"> 📌A passionate software developer from Colombia!</h2>
 
 <div align="center">
   
