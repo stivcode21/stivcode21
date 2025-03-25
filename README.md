@@ -54,7 +54,7 @@
 
 <hr/>
 
-<h2 align="center" >⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=stivcode21&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&rank_icon=github&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
