@@ -22,7 +22,7 @@
   <h2>🌌 A curious fact:</h2>
   <p><em>Astronomers need to know programming to explore the universe. Programming connects everything! 🚀</em></p>
   
-  <h3>✨ Let’s create something amazing together! ✨</h3>
+   <h3>✨ Let’s create something amazing together! ✨</h3>
 </div>
  
 <div align="center"> 
