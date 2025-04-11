@@ -16,7 +16,7 @@
   <div style="list-style: none; padding: 0;">
     ✅ <strong>Available for new projects and collaborations</strong><br />
     🌱 Learning: <strong>Angular, c#, and Node.js</strong><br/>
-    💬 Ask me about: <strong>JavaScript, React, Tailwind</strong> or <a href="https://www.stivcode.com/">anything here</a><br/>
+    💬 Ask me about: <strong>JavaScript, React, Tailwind</strong> or 
   </div>
 
   <h2>🌌 A curious fact:</h2>
