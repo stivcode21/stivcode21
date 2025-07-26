@@ -1,4 +1,4 @@
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6812EA&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6812EA&height=120&section=header"/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stivcode!+🪄;&color=6812EA;" />
 <!--  <img src="https://i.ibb.co/ryr27r0/Avatar-Foto-de-Perfil-Hombre-Tatuajes-Dibujo-Corporativo-Empresa-Ilustrado-Moderno-Azul.png" alt="Profile Image" width="130" height="130" /> -->
