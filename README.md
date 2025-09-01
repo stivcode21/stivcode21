@@ -7,7 +7,7 @@
 
 <h2 align="center">📌A passionate software developer from Colombia!</h2>
 
- <div align="center">
+<div align="center">
   
   <p>
     <em>¡turn ideas into extraordinary results!.</em> I'am committed to my professional development and enjoy collaborating with passionate people to create something memorable. Are you ready to build something unique together?
