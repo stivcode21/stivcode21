@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6812EA&height=120&section=header"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6812EA&height=120&section=header"/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Chela%20One&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stivcode!+💻;&color=fff;" />
 <!--  <img src="https://i.ibb.co/ryr27r0/Avatar-Foto-de-Perfil-Hombre-Tatuajes-Dibujo-Corporativo-Empresa-Ilustrado-Moderno-Azul.png" alt="Profile Image" width="130" height="130" /> -->
@@ -43,7 +43,7 @@
 <h2 align="center" >📌 Languages-Frameworks-Tools </h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,next,astro,supabase,firebase,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vite,vercel,sqlite,notion,figma,discord,vscode,redux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vite,vercel,sqlite,notion,figma,discord,vscode" />
 </div>
 <br/>
 <hr/>
@@ -58,7 +58,7 @@
 <h2 align="center">📌 Stats </h2>
 <br>
 <div align=center>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=stivcode21&show_icons=true&count_private=true&title_color=fff&rank_icon=github&icon_color=6812EA&text_color=fff&bg_color=1D1236&border_color=46385F" alt="Bastian Dev github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=stivcode21&show_icons=true&count_private=true&title_color=fff&rank_icon=github&icon_color=6812EA&text_color=fff&bg_color=1D1236&border_color=46385F" alt="stivcode github stats" /> 
   
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stivcode21&layout=compact&title_color=fff&text_color=fff&bg_color=1D1236&border_color=46385F" />
 
