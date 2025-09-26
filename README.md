@@ -5,7 +5,6 @@
 </h1>
 
 <h2 align="center">📌A passionate software developer from Colombia!</h2>
-
  <div align="center">
   
  <p>
