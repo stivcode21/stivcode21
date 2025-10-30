@@ -13,15 +13,15 @@
 
  <h2 >🚀 What I'm working on: </h2>
   <div style="list-style: none; padding: 0;">
-    ✅ <strong>Available for new projects and collaborations</strong><br />
-    🌱 Learning: <strong>Angular, c#, and Node.js</strong><br/>
-    💬 Ask me about: <strong>JavaScript, React, Tailwind</strong> or 
+    - <strong>Available for new projects and collaborations</strong><br />
+    - Learning: <strong>React Native, mysql, and Node.js</strong><br/>
+    - Ask me about: <strong>JavaScript, React, Tailwind</strong> 
   </div>
 
   <h2>🌌 A curious fact:</h2>
   <p><em>Astronomers need to know programming to explore the universe. Programming connects everything! 🚀</em></p>
   
-   <h3>✨ Let’s create something amazing together! ✨</h3>
+   <h3>✨ Let’s create something amazing together!</h3>
 </div>
  
 <div align="center"> 
@@ -41,12 +41,12 @@
 <h2 align="center" >📌 Languages-Frameworks-Tools </h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,next,astro,supabase,firebase,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vite,vercel,sqlite,notion,figma,discord,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,vite,python,vercel,sqlite,notion,figma,discord,vscode" />
 </div>
 <br/>
 <hr/>
 <div align="center">
-  <h2>📌My Contributions </h2>
+  <h2>📌 My Contributions </h2>
   <br/>
   <img alt="my contributions" src="https://github-readme-activity-graph.vercel.app/graph?username=stivcode21&bg_color=0d1117&color=ffffff&line=6812EA&point=f9fafa&area=true&hide_border=true" />
 </div>
