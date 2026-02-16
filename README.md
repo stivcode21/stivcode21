@@ -1,12 +1,12 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6812EA&height=70&section=header"/>
 
 <div align="center">
- <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stivcode!+💻;&color=6812EA;" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Bricolage+Grotesque&size=30&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi!+I'm+StivCode+👋;+Full-Stack+Developer+💻;+I+live+in+Colombia;&color=8965eb;" />
 </div>
 
 <div align="center">
- <img src="https://i.pinimg.com/474x/46/d8/d3/46d8d32e1b2d11d9d210cccf9ebdd849.jpg" width="300" height="250"/>
- <img src="https://github-readme-stats-alpha-orpin-38.vercel.app/api?username=stivcode21&theme=github_dark&hide_border=true&title_color=6812EA&icon_color=6812EA" width="500" />
+ <img src="myEmoji.svg" width="300" height="300"/>
+ <img src="https://github-readme-stats-alpha-orpin-38.vercel.app/api?username=stivcode21&theme=github_dark&hide_border=true&title_color=6812EA&icon_color=6812EA" width="600" />
 
 </div>
 
@@ -25,64 +25,67 @@
 </div>
 
 
-<h2 align="center">Frontend Developer & UI Designer from Colombia</h2>
+<h2 align="center">Frontend Developer growing into Full-Stack</h2>
 
 <div align="center">
 
 <p>
-    <em>I transform ideas into functional, intuitive, and visually stunning digital experiences.</em><br/>
-    I am a passionate <strong>Frontend Developer</strong> and <strong>UI Designer</strong> with solid notions of backend development.  
-    As a committed self-taught learner, I am constantly expanding my skills, improving my craft, and building solutions that create real value.
+    <em>I build digital experiences that combine clean design with solid backend foundations.</em><br/>
+    I am a <strong>Frontend Developer & UI Designer</strong> expanding into <strong>Backend Development</strong>, working with technologies like Node.js, Fastify, Prisma, and PostgreSQL.  
+    As a disciplined self-taught learner, I constantly refine my skills, strengthen my technical foundations, and focus on writing structured, scalable, and maintainable code.
     <br/><br/>
-    Actualmente estudio un <strong>Técnico en Programación</strong> en el SENA, fortaleciendo mis bases y potenciando mi formación profesional.
 </p>
 
 <h2>🚀 What I'm working on:</h2>
 <div style="list-style: none; padding: 0;">
-    - <strong>Open to new projects, collaborations, and freelance work</strong> <br />
-    - Learning: <strong>React Native, MySQL, and Node.js</strong> <br />
-    - Ask me about: <strong>JavaScript, React, TailwindCSS, UI Design</strong>
+    - <strong>Building structured APIs and improving backend architecture skills</strong> <br />
+    - Deepening my knowledge in: <strong>Node.js, Prisma ORM, PostgreSQL & system design fundamentals</strong> <br />
+    - Ask me about: <strong>JavaScript, React, TailwindCSS, API design, and database modeling</strong>
 </div>
 
 <h2>🌌 A curious fact:</h2>
 <p>
-    <em>"Programar permite explorar el universo de posibilidades. Incluso los astrónomos necesitan código para descubrir nuevas galaxias." 🚀</em>
+    <em>"Code is not just about building apps — it's about designing systems that can grow, scale, and evolve over time." 🚀</em>
 </p>
 
-<h3>✨ Let’s build something extraordinary together!</h3>
+<h3>✨ Let’s build scalable and meaningful digital products together!</h3>
 
 </div>
+
  
+
+<br/>
+<h2 align="center" > Languages-Frameworks-Tools </h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vercel,vite,nodejs,prisma" /><br>
+    <img src="https://skillicons.dev/icons?i=notion,figma,discord,vscode,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,supabase,firebase,python,sqlite,mysql,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,next,astro,typescript" /><br>
+</div>
+
 <div align="center">
  
 ![](under-construction.gif)
+
 <div>
 <br/>
 
- <hr/>
-<h2 align="center" > Languages-Frameworks-Tools </h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,next,astro,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,supabase,firebase,python,sqlite,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=notion,figma,discord,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=vercel,vite" />
-</div>
 <div align="center">
   <h2>My Contributions </h2>
-  <br/>
   <img alt="my contributions" src="https://github-readme-activity-graph.vercel.app/graph?username=stivcode21&bg_color=0d1117&color=ffffff&line=6812EA&point=f9fafa&area=true&hide_border=true" />
 </div>
 
-<hr/>
+<br>
 
 <h2 align="center"> Stats </h2>
-<br>
 <div align=center>
-
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=stivcode21&theme=tokyonight_duo&hide_border=true"
 </p>
   
 </div> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6812EA&height=70&section=footer"/>    
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p> 
