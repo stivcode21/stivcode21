@@ -24,6 +24,7 @@
   </a>
 </div>
 
+<br/>
 
 <h2 align="center">Frontend Developer growing into Full-Stack</h2>
 
