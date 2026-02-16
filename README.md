@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
- <img src="myEmoji.svg" width="300" height="300"/>
- <img src="https://github-readme-stats-alpha-orpin-38.vercel.app/api?username=stivcode21&theme=github_dark&hide_border=true&title_color=6812EA&icon_color=6812EA" width="600" />
+ <img align="left" src="myEmoji.svg" width="300" height="300"/>
+ <img align="right" src="https://github-readme-stats-alpha-orpin-38.vercel.app/api?username=stivcode21&theme=github_dark&hide_border=true&title_color=6812EA&icon_color=6812EA" width="600" />
 
 </div>
 
