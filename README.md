@@ -1,4 +1,4 @@
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6812EA&height=70&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6812EA&height=70&section=header"/>
 
 <div align="center">
 <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Bricolage+Grotesque&size=30&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi!+I'm+StivCode+👋;+Full-Stack+Developer+💻;+I+live+in+Colombia;&color=8965eb;" />
